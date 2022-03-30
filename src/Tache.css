@@ -1,0 +1,20 @@
+.tacheToDo{
+    display: flex;
+    align-items: center;
+    width: 60%;
+    gap: 20px;
+    /* margin: 20px; */
+
+}
+
+#butSupp {
+border-radius: 10px;
+border:red 2px solid;
+color: red;
+}
+
+#butMod {
+    border-radius: 10px;
+    color: rgb(79, 44, 233);
+    border: rgb(79, 44, 233) 2px solid;
+}
